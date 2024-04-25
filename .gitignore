@@ -28,9 +28,6 @@ media
 *.py[cod]
 *$py.class
 
-venv/ 
-/venv 
-venv
 
 # Distribution / packaging
 .Python build/
